@@ -99,6 +99,69 @@
         <mxCell id="WgkR3-uTskMIZ54QIh0L-32" value="Create .exe release file" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="950" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-35" target="WgkR3-uTskMIZ54QIh0L-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-35" value="Open SAP in adminstration mode" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1210" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-36" target="WgkR3-uTskMIZ54QIh0L-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-36" value="Select &lt;b&gt;Administration&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1311" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-38" target="WgkR3-uTskMIZ54QIh0L-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-38" value="Select &lt;b&gt;Add-Ons&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1421" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-40" target="WgkR3-uTskMIZ54QIh0L-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-40" value="Select &lt;b&gt;Add-On Administration&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1520" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-42" target="WgkR3-uTskMIZ54QIh0L-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-42" value="Click &quot;&lt;font color=&quot;#002aff&quot;&gt;Manage Extensions for Lightweight Deployment&lt;/font&gt;&quot;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1611" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-44" target="WgkR3-uTskMIZ54QIh0L-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-44" value="Choose Import Data" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1711" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-46" target="WgkR3-uTskMIZ54QIh0L-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-46" value="Browse the zipfile location and upload the zipfile" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1821" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-48" target="WgkR3-uTskMIZ54QIh0L-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-48" value="Click next until finish" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1927" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-50" target="WgkR3-uTskMIZ54QIh0L-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-50" value="Back to &lt;b&gt;SAP B1&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="2041" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WgkR3-uTskMIZ54QIh0L-52" target="WgkR3-uTskMIZ54QIh0L-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-52" value="Select &lt;b&gt;Add-On Manager&lt;/b&gt; in Adminstration Menus" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="2151" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgkR3-uTskMIZ54QIh0L-54" value="&lt;b&gt;Start &lt;/b&gt;the new Add-on to connect" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="2261" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
